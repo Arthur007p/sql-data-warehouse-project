@@ -10,9 +10,7 @@ Performs the following actions:
 
 Parameters:
 None.
-
-Usage Example:
-    EXEC bronze.load_bronze;
+e;
 ===============================================================================
 */
 
